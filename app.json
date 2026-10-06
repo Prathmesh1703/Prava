@@ -58,8 +58,9 @@
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "beaf3074-17f1-497b-8c65-677d8274cd13"
+        "projectId": "3d2d7def-1917-4ad3-8581-965ae034a341"
       }
-    }
+    },
+    "owner": "prathmesh3000s-team"
   }
 }
